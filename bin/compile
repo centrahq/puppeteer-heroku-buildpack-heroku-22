@@ -143,4 +143,4 @@ topic "Installing fonts"
 mkdir -p $BUILD_DIR/.fonts
 ls $FONTS_DIR
 cp $FONTS_DIR/* $BUILD_DIR/.fonts/
-fc-cache -f $BUILD_DIR/.fonts
+#fc-cache -f $BUILD_DIR/.fonts
