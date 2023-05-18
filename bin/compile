@@ -64,7 +64,6 @@ PACKAGES="
   fonts-wqy-zenhei
   fonts-thai-tlwg
   fonts-kacst
-  ttf-freefont
   fontconfig
   libappindicator3-1
   libasound2
